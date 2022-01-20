@@ -1,0 +1,6 @@
+name: VytherisFly
+main: dev.glhrrm.vytherisfly.Main
+version: 1.0
+commands:
+  fly:
+    aliases: [voar]

@@ -1,0 +1,16 @@
+name: glUtils
+main: dev.glhrrm.glutils.Main
+version: 1.0
+commands:
+  fly:
+    aliases: [voar]
+  gm0:
+    aliases: [gmc]
+  gm1:
+    aliases: [gmc]
+  gm2:
+    aliases: [gma]
+  gm3:
+    aliases: [gmsp]
+  ping:
+    aliases: [latencia]
