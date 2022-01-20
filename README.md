@@ -33,3 +33,4 @@ glutils.cmd.gmspectator - Acesso ao comando de gamemode 3;
 # Importante!!
 
 Caso encontre algum bug em meu plugin, favor contatar via Discord glhrrm#0005 enviando prints e uma descrição bem detalhada para a resolução do erro!
+E caso queira a mudança de alguma mensagem no plugin, se você quer que eu altere uma mensagem para seu servidor, favor contatar via Discord também.
